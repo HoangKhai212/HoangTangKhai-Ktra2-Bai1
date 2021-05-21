@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Iphone"
+        android:icon="@drawable/ic_iphone"
+        android:id="@+id/iphone"/>
+    <item android:title="SamSung"
+        android:icon="@drawable/ic_android"
+        android:id="@+id/samsung"/>
+    <item android:title="Oppo"
+        android:icon="@drawable/ic_android"
+        android:id="@+id/oppo"/>
+</menu>
